@@ -1,0 +1,16 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(éë
+t
+java:S1128"WRemove this unused import 'com.project.questionandanswers.application.model.PlayerDto'.(öÂ·ş8ö³Ë–0
+w
+java:S1128"ZRemove this unused import 'com.project.questionandanswers.infrastructure.entities.Player'.(âÍİ˜8ö³Ë–0
+\
+java:S1128":Remove this unused import 'org.mapstruct.factory.Mappers'.(Ôä¸ûÿÿÿÿ8ö³Ë–0
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8ö³Ë–0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ö³Ë–0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8÷³Ë–0
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8÷³Ë–0

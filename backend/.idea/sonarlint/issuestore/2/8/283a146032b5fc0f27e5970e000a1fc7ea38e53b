@@ -1,0 +1,7 @@
+
+ˆ
+java:S4165*"fRemove this useless assignment; "lastName" already holds the assigned value along all execution paths.(ÊÃòİüÿÿÿÿ8ê´«È–0
+^
+java:S1854*"<Remove this useless assignment to local variable "lastName".(ÊÃòİüÿÿÿÿ8Ø´«È–0
+Q
+java:S1656*"/Remove or correct this useless self-assignment.(ÊÃòİüÿÿÿÿ8Ø´«È–0
