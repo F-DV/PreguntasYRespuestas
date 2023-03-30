@@ -201,8 +201,6 @@ squestionandanswers/src/main/java/com/project/questionandanswers/infrastructure/
 dquestionandanswers/src/main/java/com/project/questionandanswers/application/config/PlayerConfig.java,7\1\718dafcdaf9d71e95cdaab63aa7b411bdf49c788
 ü
 oquestionandanswers/src/main/java/com/project/questionandanswers/application/controllers/CategoryController.java,d\b\db6f484858e356e9a9ac935ee5420de70a393bf4
-ù
-mquestionandanswers/src/main/java/com/project/questionandanswers/application/controllers/PlayerController.java,3\0\306db01f118a1a95c44dba79b6d5284334ce5399
 J
 questionandanswers/pom.xml,7\1\71c552186ca8f0a3a2326ee1e95b5d13bdbb653f
 ï
@@ -223,14 +221,8 @@ gquestionandanswers/src/main/java/com/project/questionandanswers/application/ser
 nquestionandanswers/src/main/java/com/project/questionandanswers/application/model/response/PlayerResponse.java,c\f\cf142a5b509a7994426cc89ea35044b83012f9ef
 ú
 lquestionandanswers/src/main/java/com/project/questionandanswers/application/model/request/PlayerRequest.java,2\c\2c7d276fe4ada3ab19190a00539dda3282d8e815
-ô
-iquestionandanswers/src/main/java/com/project/questionandanswers/application/mappers/PlayerRestMapper.java,2\d\2d8b283e5ae2df05448ac74e4a89c528888b781a
 ç
 ]questionandanswers/src/main/java/com/project/questionandanswers/domain/model/PlayerModel.java,2\8\283a146032b5fc0f27e5970e000a1fc7ea38e53b
-ì
-cquestionandanswers/src/main/java/com/project/questionandanswers/domain/ports/PlayerServicePort.java,3\f\3f5a8a32b16489f54ef8ffae8c487a80c21d98d8
-ó
-gquestionandanswers/src/main/java/com/project/questionandanswers/domain/ports/PlayerPersistencePort.java,6\6\66f2976fc5e1bf6993568f1ab1ec630fc063fe86
 ì
 cquestionandanswers/src/main/java/com/project/questionandanswers/infrastructure/entities/Answer.java,2\a\2a735b74ed65d4f8df3f332c34990acabbfb1441
 ì
@@ -247,3 +239,13 @@ squestionandanswers/src/main/java/com/project/questionandanswers/infrastructure/
 {questionandanswers/src/main/java/com/project/questionandanswers/infrastructure/repositories/daoimp/CategoryMysqlDaoImp.java,7\2\721e7490cf2b93d66977fdb2bebb47990bd0af79
 ≠
 }questionandanswers/src/main/java/com/project/questionandanswers/infrastructure/repositories/daoimp/CategoryMongodbDaoImp.java,a\4\a4bf4dd1d8f1285771fd5da26bf728d2eb8ebf13
+ö
+jquestionandanswers/src/main/java/com/project/questionandanswers/infrastructure/adapters/PlayerAdapter.java,f\4\f47230a98e2520f5981c096304b0fa93fcb7c38e
+ù
+mquestionandanswers/src/main/java/com/project/questionandanswers/application/controllers/PlayerController.java,3\0\306db01f118a1a95c44dba79b6d5284334ce5399
+ô
+iquestionandanswers/src/main/java/com/project/questionandanswers/application/mappers/PlayerRestMapper.java,2\d\2d8b283e5ae2df05448ac74e4a89c528888b781a
+ó
+gquestionandanswers/src/main/java/com/project/questionandanswers/domain/ports/PlayerPersistencePort.java,6\6\66f2976fc5e1bf6993568f1ab1ec630fc063fe86
+ì
+cquestionandanswers/src/main/java/com/project/questionandanswers/domain/ports/PlayerServicePort.java,3\f\3f5a8a32b16489f54ef8ffae8c487a80c21d98d8
